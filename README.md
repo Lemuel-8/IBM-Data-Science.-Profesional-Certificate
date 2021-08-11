@@ -25,7 +25,8 @@ Projects: random album generator, predict housing prices, best classifier model,
 . Learn what data science is, the various activities of a data scientist’s job, and methodology to think and work like a data scientist<br>  
 . Develop hands-on skills using the tools, languages, and libraries used by professional data scientists<br>  
 . Import and clean data sets, analyze and visualize data, and build and evaluate machine learning models and pipelines using Python<br> 
-. Apply various data science skills, techniques, and tools to complete a project and publish a report
+
+. Apply various data science skills, techniques, and tools to complete a project and publish a report<br>
 
 # SKILLS YOU WILL GAIN
 Data Science<br>
